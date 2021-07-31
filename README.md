@@ -12,7 +12,7 @@ Things I am currently working on:
 📔: [Todooos](https://todooos.us), a MERN todolist,  
 🚢: [Sniip](http://sniip.jp), a tourism/commercial website 
   
-📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](mailto:ligeorge0101@gmail.com)
+📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com)
 
 <!--
 **glli01/glli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
