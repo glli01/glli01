@@ -8,7 +8,7 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
 Things I am currently working on:  
-🛤️:[Pathyy](http://pathyy.com) a pathfinding visualizer,  
+🛤️: [Pathyy](https://www.pathyy.com) a pathfinding visualizer,  
 📔: [Todooos](https://todooos.us), a MERN todolist/productivity app,  
 🚢: [Sniip](http://sniip.jp), a tourism/commercial website 
   
