@@ -10,7 +10,13 @@ If you are interested in any of my work, you can find the links below.
 Things I am currently working on:  
 🛤️:[Pathyy](http://pathyy.com) a pathfinding visualizer,  
 📔: [Todooos](https://todooos.us), a MERN todolist/productivity app,  
-🚢: [Sniip](http://sniip.jp), a tourism/commercial website 
+🚢: [Sniip](http://sniip.jp), a tourism/commercial website  
+  
+  
+Things I have worked on in the past:  
+: [Ecommerce]() A tutorial based Ecommerce app.  
+: [FullStackOpen]() A course and my first look into react.  
+: [TomatoTimer]() my first look into SWE.  
   
 📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com
 
