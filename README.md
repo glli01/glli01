@@ -2,7 +2,7 @@
   
 🙍‍♂️:  
 I am a student at UC San Diego studying Computer Science and Economics, who has recently started a few personal projects.  
-If you are interested in any of my work, you can find the links below.  
+If you are interested in any of my work, you can find the links below (I do all my own designs as a hobby!).
   
   
   
