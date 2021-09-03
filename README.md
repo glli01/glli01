@@ -8,9 +8,9 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
 Things I am currently working on:  
-🛤️: [Pathyy](https://www.pathyy.com) a pathfinding visualizer,  
-📔: [Todooos](https://todooos.us), a MERN todolist/productivity app,  
-🚢: [Sniip](http://sniip.jp), a tourism/commercial website 
+🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer,  
+📔: [Todooos](https://todooos.us), a MERN public todolist/productivity app,
+🚢: [Sniip](http://sniip.jp), a tourism/commercial website (private Repository)
   
 📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com
 
