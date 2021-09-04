@@ -14,9 +14,9 @@ Things I am currently working on:
 🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
   
   
-Things I am currently interested or learning about:
+Things I am currently interested or learning about:  
 ⬜: Container management with Kubernetes,  
-🟦: Load balancing, and Load Testing,
+🟦: Load balancing, and Load Testing,  
 🟩: Different Application Architectures (Event Driven, Layered, Microservices, P2P, Serverless?)  
   
   
