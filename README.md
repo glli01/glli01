@@ -18,6 +18,7 @@ Things I am currently interested or learning about:
 ⬜: Container management with Kubernetes,  
 🟦: Load balancing, and Load Testing,  
 🟩: Different Application Architectures (Event Driven, Layered, Microservices, P2P, Serverless?)  
+🟧: Big Data management and Machine Learning through Python (and perhaps Django)  
   
   
 📫: You can contact me by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com  
