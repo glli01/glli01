@@ -8,9 +8,11 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
 Things I am currently working on:  
-🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer,  
+🚢: [Sniip](http://sniip.jp), a tourism/commercial website (private Repository, currently offline for development),  
+💳: [Wowtokens] (https://lit-forest-30304.herokuapp.com/), a real-time data retrieval and management website for World Of Warcraft.
 📔: [Todooos](https://todooos.us), a MERN public todolist/productivity app,  
-🚢: [Sniip](http://sniip.jp), a tourism/commercial website (private Repository)
+🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
+
   
 📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com
 
