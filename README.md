@@ -12,9 +12,15 @@ Things I am currently working on:
 💳: [Wowtokens](https://lit-forest-30304.herokuapp.com/), a real-time data retrieval and profit calculator for World Of Warcraft,  
 📔: [Todooos](https://todooos.us), a MERN public todolist/productivity app,  
 🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
-
   
-📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com
+  
+Things I am currently interested or learning about:
+⬜: Container management with Kubernetes,  
+🟦: Load balancing, and Load Testing,
+🟩: Different Application Architectures (Event Driven, Layered, Microservices, P2P, Serverless?)  
+  
+  
+📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com  
 
 <!--
 **glli01/glli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
