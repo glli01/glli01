@@ -20,7 +20,7 @@ Things I am currently interested or learning about:
 🟩: Different Application Architectures (Event Driven, Layered, Microservices, P2P, Serverless?)  
   
   
-📫: You can contact me on [LinkedIn](https://www.linkedin.com/in/george-li-3279b520a/) or by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com  
+📫: You can contact me by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com  
 
 <!--
 **glli01/glli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
