@@ -21,7 +21,7 @@ Things I am currently interested or learning about:
 🟧: Big Data management and Machine Learning through Python (and perhaps Django)  
   
   
-📫: You can contact me by [Email](https://mailto:ligeorge0101@gmail.com) at ligeorge0101@gmail.com  
+📫: You can contact me by [Email](https://mailto:glli@ucsd.edu) at glli@ucsd.edu  
 
 <!--
 **glli01/glli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
