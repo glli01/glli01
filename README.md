@@ -8,9 +8,9 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
 Things I am currently working on:  
-🚢: [Sniip](http://sniip.jp), a tourism/commercial website (private Repository, online version is outdated, being privately updated),  
-💳: [Wowtokens](https://lit-forest-30304.herokuapp.com/), a real-time data retrieval and profit calculator for World Of Warcraft,  
-📔: [Todooos](https://todooos.us), a MERN public todolist/productivity app,  
+🚢: [Sniip](), a tourism/commercial website (private Repository, online version is outdated, being privately updated),  
+💳: [Wowtokens](), a real-time data retrieval and profit calculator for World Of Warcraft,  
+📔: [Todooos](), a MERN public todolist/productivity app,  
 🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
   
   
