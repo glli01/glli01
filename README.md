@@ -13,11 +13,12 @@ Things I am currently working on:
 🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
   
   
-Things I am currently interested or learning about:  
-⬜: Container management with Kubernetes,  
-🟦: Load balancing, and Load Testing,  
-🟩: Different Application Architectures (Event Driven, Layered, Microservices, P2P, Serverless?)  
-🟧: Big Data management and Machine Learning through Python (and perhaps Django)  
+Things I am currently interested in or learning about:  
+⬜: Container management with Kubernetes ✅,  
+🟦: Load balancing, and Load Testing ✅,  
+🟩: Different Application Architectures (Event Driven, Layered, Microservices ✅, P2P, Serverless?)   
+🟧: Big Data management and Machine Learning through Python (and perhaps Django) 🔰
+🟥: UI/UX Design
   
   
 📫: You can contact me by [Email](https://mailto:glli@ucsd.edu) at glli@ucsd.edu  
