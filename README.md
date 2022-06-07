@@ -7,7 +7,7 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
 Things I am currently working on:  
-🧑‍🤝‍🧑: Oracle Internship JIRA Microservices Application, a human resources application tracking velocity statistics per team/developer and other heuristics (uses Kubernetes, Relational Databases, etc),  
+🧑‍🤝‍🧑: [Oracle Internship], a human resources application tracking velocity statistics per team/developer and other heuristics
 ⏫: [Python ML](), a Sudoku SAT solver using backtracking; a Blackjack MC, TD, and QLearning algo; a Gomoku AI using MCTS; a 2048 AI using Expectimax trees,  
   
   
