@@ -6,8 +6,16 @@ If you are interested in any of my work, you can find the links below (I do all 
   
   
   
+Things I am currently working on:
+🧑‍🤝‍🧑: Oracle Internship JIRA Microservices Application, a human resources application tracking velocity statistics per team/developer and other heuristics (uses Kubernetes, Relational Databases, etc),
+⏫: [Python ML](), a Sudoku SAT solver using backtracking; a Blackjack MC, TD, and QLearning algo; a Gomoku AI using MCTS; a 2048 AI using Expectimax trees,
+
+
+
   
-Things I am currently working on:  
+  
+  
+Things I have worked on:  
 🚢: [Sniip](), a tourism/commercial website (private Repository, online version is outdated, being privately updated),  
 💳: [Wowtokens](), a real-time data retrieval and profit calculator for World Of Warcraft,  
 📔: [Todooos](), a MERN public todolist/productivity app,  
