@@ -23,6 +23,7 @@ Things I am currently interested in or learning about:
   
 📫: You can contact me by [Email](https://mailto:glli@ucsd.edu) at glli@ucsd.edu  
 
+![Profile Views](https://komarev.com/ghpvc/?username=glli01&style=flat-square&color=blue)
 <!--
 **glli01/glli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
