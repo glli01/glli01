@@ -19,12 +19,13 @@ Things I have worked on:
 💳: [Wowtokens](), a real-time data retrieval and profit calculator for World Of Warcraft,  
 📔: [Todooos](), a MERN public todolist/productivity app,  
 🛤️: [Pathyy](https://www.pathyy.com) a public pathfinding visualizer  
-Things I have previously learnt:
+
+Things I have previously learnt:  
 ⬜: Container management with Kubernetes ✅,  
 🟦: Load balancing, and Load Testing ✅,  
-🟩: Different Application Architectures (Event Driven✅, Layered, Microservices ✅, P2P✅, Serverless ✅)
-🟧: Big Data management and Machine Learning through Python (and perhaps Django) ✅
-🟥: UI/UX Design 🔰
+🟩: Different Application Architectures (Event Driven✅, Layered, Microservices ✅, P2P✅, Serverless ✅). 
+🟧: Big Data management and Machine Learning through Python (and perhaps Django) ✅  
+🟥: UI/UX Design 🔰  
   
   
 📫: You can contact me by [Email](https://mailto:glli01.work@gmail.com) at glli01.work@gmail.com
