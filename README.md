@@ -4,7 +4,7 @@
 
 #### Projects I am currently working on:
 - Containerized Server Hosting and a homelab ✅
-- Kubernetes The Hard Way - building a cluster from scratch ✅
+- [Kubernetes The Hard Way](https://github.com/glli01/kubernetesthehardway) - building a cluster from scratch ✅
 - AnkiNotes (currently paused) - AI powered Anki system for converting Markdown (Obsidian Notes) into anki flashcards for review. Infra run through Ansible + Terraform, Typescript React stack.
   
 #### Things I am currently learning about:
