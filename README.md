@@ -24,8 +24,8 @@ Things I have worked on:
 Things I have previously learnt:  
 ⬜: Container management with Kubernetes ✅,  
 🟦: Load balancing, and Load Testing ✅,  
-🟩: Different Application Architectures (Event Driven✅, Layered, Microservices ✅, P2P✅, Serverless ✅). 
-🟧: Big Data management and Machine Learning through Python (and perhaps Django) ✅  
+🟩: Different Application Architectures (Event Driven✅, Layered, Microservices ✅, P2P✅, Serverless ✅),  
+🟧: Big Data management and Machine Learning through Python (and perhaps Django) ✅   
 🟥: UI/UX Design 🔰  
   
   
