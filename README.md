@@ -12,7 +12,8 @@
 - Agentic Flows (langgraph) ✅ and MCP
 - GraphQL
 
-Previously:  
+  
+#### Previously:  
 Things I have worked on:  
 🤝‍: [Oracle Internship](), a human resources application tracking velocity statistics and other heuristics per team/developer,  
 🉑: [Python ML](), a Sudoku SAT solver using backtracking; a Blackjack MC, TD, and QLearning algo; a Gomoku AI using MCTS; a 2048 AI using Expectimax trees,  
